@@ -1,11 +1,11 @@
 server:
-  port: 9001
+  port: 9002
 spring:
   application:
     name: tansquare-base
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.64.128:3306/tensquare_base?characterEncoding=utf-8&useSSL=false&useUnicode=true
+    url: jdbc:mysql://192.168.64.128:3306/tensquare_recruit?characterEncoding=utf-8&useSSL=false&useUnicode=true
     username: root
     password: root
   jpa:

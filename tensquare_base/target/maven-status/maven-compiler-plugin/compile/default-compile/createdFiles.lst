@@ -1,0 +1,5 @@
+com\tensquare\base\BaseApplication.class
+com\tensquare\base\dao\LabelDao.class
+com\tensquare\base\pojo\Label.class
+com\tensquare\base\controller\LabelController.class
+com\tensquare\base\service\LabelService.class
